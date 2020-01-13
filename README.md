@@ -6,7 +6,7 @@ Sois libres para añadir lo que queráis, este es vuestro chiringuito.
 
 ## Cómo añadir recursos
 
-Como quieras, pero ponte en el lugar de quién venga detrás, es decir, si puedes añade un poquito de información como por ejemplo la fecha o una breve descripción.
+Como quieras, pero ponte en el lugar de quién venga detrás, es decir, si puedes añade un poquito de información como por ejemplo la fecha o una breve descripción. Y si necesitas subir ficheros mételos en una carpetita. Recuerda que un repo ordenado es un repo feliz :)
 
 ## Cómo quitar recursos
 
@@ -68,6 +68,15 @@ Tú puedes. Pero solo si te atreves y si tienes permisos. Si no tienes permisos 
 - Terminal programada en JS y Electron https://eugeny.github.io/terminus
 - Herramienta para hacer CVs https://www.canva.com
 - Listado de APIs públicas http://www.enrique7mc.com/2016/05/lista-apis-publicas
+
+## Preguntas reales de entrevistas
+
+- ¿Qué diferencia entre librería y framework?
+
+## Pruebas técnicas
+
+- Mars Rover https://veerasundar.com/blog/2018/03/mars-rover-in-javascript-react/
+- Hackerrank https://www.hackerrank.com
 
 ## Portfolios de Adalabers:
 
