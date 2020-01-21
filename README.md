@@ -48,6 +48,7 @@ Tú puedes. Pero solo si te atreves y si tienes permisos. Si no tienes permisos 
 
 - React router dom https://reacttraining.com/react-router/web/guides/quick-start
 - React bootstrap https://react-bootstrap.github.io
+- 11 herramientas útiles para debugear, crear prototipos, compartir componentes, etc. con React https://blog.bitsrc.io/11-top-react-developer-tools-for-2020-3860f734030b
 
 ## Recursos de diseño:
 
