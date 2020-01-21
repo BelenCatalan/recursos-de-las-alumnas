@@ -94,15 +94,6 @@ Tú puedes. Pero solo si te atreves y si tienes permisos. Si no tienes permisos 
 - Megan (Farifax) https://m-m-e.github.io/portfolio
 - Leire (Farifax) https://leireriel.github.io/leire-rico-portfolio
 
-## Eventos tecnológicos:
-
-- Commitconf: https://2018.commit-conf.com
-- Codemotion: https://madrid2018.codemotionworld.com
-- T3chfest: https://t3chfest.uc3m.es
-- Frontfest: https://frontfest.es
-- Womentechmakers: http://wtm.gdgmadrid.es
-- JSDay: https://twitter.com/JSDayES
-
 ## Páginas de empleo:
 
 - https://www.getmanfred.com
