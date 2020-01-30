@@ -111,3 +111,4 @@ Tú puedes. Pero solo si te atreves y si tienes permisos. Si no tienes permisos 
 - Sara Soueidan https://www.sarasoueidan.com
 - Sara Drasner https://sarahdrasnerdesign.com
 - Agencia de desarrollo digital https://www.dogstudio.co/studio
+- Portfolio imitando un juego http://www.rleonardi.com/
