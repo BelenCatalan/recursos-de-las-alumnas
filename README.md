@@ -18,6 +18,7 @@ Tú puedes. Pero solo si te atreves y si tienes permisos. Si no tienes permisos 
 
 ## Recursos de HTML y CSS:
 
+- Aprende flexbox https://flexbox.help/
 - Toolkit for webdevelopers https://www.emmet.io
 - Generador de gradientes de CSS http://www.colorzilla.com/gradient-editor
 - CSS3 Patterns Gallery - By Lea Verou https://leaverou.github.io/css3patterns
