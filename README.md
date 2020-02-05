@@ -124,5 +124,5 @@ Os animamos a buscar estos términos y entender lo que son:
 - Release
 - Versión beta
 - Base de datos relacional
-- Base de datos no relaciona, a veces llamado NoSQL
+- Base de datos no relacional, a veces llamado NoSQL
 - User-Agent
