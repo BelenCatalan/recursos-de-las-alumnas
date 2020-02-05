@@ -116,11 +116,13 @@ Tú puedes. Pero solo si te atreves y si tienes permisos. Si no tienes permisos 
 
 ## Glosario
 
-Aquí mostramos un glosario de términos (que no se dan en el curso intensivo) que toda Adalaber debería conocer (no hace falta dominarlos) antes de empezar a hacer entrevistas de trabajo en las empresas. Os animamos a buscar estos términos y entender lo que son:
+Aquí mostramos un glosario de términos que toda Adalaber debería conocer antes de empezar a hacer entrevistas de trabajo.
+No son términos propiamente de front, por eso con tener una idea general de lo que significan sería suficiente.
+Os animamos a buscar estos términos y entender lo que son:
 
-- User-Agent
 - Desplegar / deployar
 - Release
 - Versión beta
 - Base de datos relacional
 - Base de datos no relaciona, a veces llamado NoSQL
+- User-Agent
