@@ -113,3 +113,12 @@ Tú puedes. Pero solo si te atreves y si tienes permisos. Si no tienes permisos 
 - Sara Drasner https://sarahdrasnerdesign.com
 - Agencia de desarrollo digital https://www.dogstudio.co/studio
 - Portfolio imitando un juego http://www.rleonardi.com/
+
+## Glosario
+
+Aquí mostramos un glosario de términos (que no se dan en el curso intensivo) que toda Adalaber debería conocer antes de empezar a hacer entrevistas de trabajo en las empresas. Os animamos a buscar estos términos y entender lo que son:
+
+- User-Agent
+- Desplegar / deployar
+- Release
+- Versión beta
