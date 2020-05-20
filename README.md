@@ -75,11 +75,6 @@ Tú puedes. Pero solo si te atreves y si tienes permisos. Si no tienes permisos 
 
 - ¿Qué diferencia entre librería y framework?
 
-## Pruebas técnicas
-
-- Mars Rover https://veerasundar.com/blog/2018/03/mars-rover-in-javascript-react/
-- Hackerrank https://www.hackerrank.com
-
 ## Portfolios de Adalabers:
 
 - Icia Colomar (Clarke) https://icia-c.github.io
