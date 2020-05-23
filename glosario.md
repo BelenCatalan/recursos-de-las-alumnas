@@ -3,7 +3,7 @@ Aquí mostramos un glosario de términos que toda Adalaber debería conocer ante
 
 - Desplegar / deployar (Natalia)
 - Release
-- Versión beta
+- Versión beta (Eva)
 - Base de datos relacional, SQL
 - Base de datos no relacional, a veces llamado NoSQL, MongoDB
 - User-Agent
