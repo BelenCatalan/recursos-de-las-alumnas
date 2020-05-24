@@ -4,7 +4,7 @@ Aquí mostramos un glosario de términos que toda Adalaber debería conocer ante
 - Base de datos relacional, SQL
 - Base de datos no relacional, a veces llamado NoSQL, MongoDB
 - Desplegar / deployar (Natalia)
-- End to end test
+- End to end test (Eva)
 - Patrón de diseño en programación
 - Patrón de diseño MVC
 - Release
