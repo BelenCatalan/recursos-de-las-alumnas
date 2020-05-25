@@ -27,7 +27,7 @@ Aquí mostramos un glosario de términos que toda Adalaber debería conocer ante
 - OOP (Programación Orientada a Objetos)
 - Patrón de diseño en programación
 - Patrón de diseño MVC
-- Polyfills
+- **Polyfill:** Es un fragmento de código más o menos extenso que se utiliza para proporcionar una funcionalidad moderna (CSS, HTML, JavaScript) en navegadores antiguos que no lo admiten de forma nativa. En la mayoría de los casos, los polyfills están escritos en JavaScript, pero se pueden usar otros lenguajes de programación de base para estos scripts de llenado. Polyfilla (masilla en español) es una pasta que se puede colocar en las paredes para cubrir grietas. 
 - Prettier / Lint
 - Prod version x Dev version
 - Programación reactiva RxJs
