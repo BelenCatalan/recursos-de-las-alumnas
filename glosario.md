@@ -4,8 +4,9 @@ Aquí mostramos un glosario de términos que toda Adalaber debería conocer ante
 - a11y
 - Axios
 - Babel
-- Base de datos relacional, SQL
-- Base de datos no relacional, a veces llamado NoSQL, MongoDB
+- Base de datos relacional, SQL (Bea)
+- Base de datos no relacional, a veces llamado NoSQL, MongoDB (Bea)
+- BDD (Bea)
 - C Delivery
 - C Deployment
 - Changelogs
@@ -15,6 +16,7 @@ Aquí mostramos un glosario de términos que toda Adalaber debería conocer ante
 - DevOps
 - Docker
 - End to end test (Eva)
+- Firebase (Bea)
 - FP (Programación Funcional)
 - Gitflow / Hotfix / Bugfix
 - Graphic libraries: Recharts, Nivo, Victory
@@ -45,7 +47,7 @@ Aquí mostramos un glosario de términos que toda Adalaber debería conocer ante
 - Stagings
 - Storybook
 - Styled components / emotion
-- TDD (Test drive developement)
+- TDD (Test drive developement)(Bea)
 - Unity testing
 - User-Agent
 - **Versión beta:** Es una versión de software que ha pasado la etapa de prueba interna y ha sido lanzada a los usuarios para pruebas públicas. Suele ser un prototipo del producto final, inestable y que se lanza para que los usuarios puedan testar sus funcionalidades, detectar fallos y sugerir mejoras de cara a la versión final.
