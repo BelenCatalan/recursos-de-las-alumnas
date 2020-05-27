@@ -39,7 +39,14 @@ Aquí mostramos un glosario de términos que toda Adalaber debería conocer ante
 - React - Hooks
 - React - Pure components
 - Release
-- Redux (Grisel)
+- **Redux:** Redux es un contenedor predecible del estado de aplicaciones JavaScript. Te ayuda a escribir aplicaciones que se comportan de manera consistente, corren en distintos ambientes (cliente, servidor y nativo), y son fáciles de probar. Además de eso, provee una gran experiencia de desarrollo, gracias a edición en vivo combinado con un depurador sobre una línea de tiempo. Puedes usar Redux combinado con React, o cual cualquier otra librería de vistas. Es muy pequeño (2kB) y no tiene dependencias.
+Todo el estado de tu aplicación esta almacenado en un único árbol dentro de un único store. La única forma de cambiar el árbol de estado es emitiendo una acción (action), un objeto describiendo qué ocurrió.
+Para especificar cómo las acciones transforman el árbol de estado, usas reducers puros.
+En vez de modificar el estado directamente, especificas las modificaciones que quieres que ocurran con objetos planos llamados acciones. Entonces escribes una función especial llamada reducer que decide cómo cada acción transforma el estado de la aplicación.
+¡Eso es todo! 
+Enlaces: 
+https://dev.to/bouhm/react-redux-flow-terminologies-and-example-104b 
+https://es.redux.js.org/
 - Redux Saga
 - Server side rendering
 - Software versioning
@@ -50,7 +57,7 @@ Aquí mostramos un glosario de términos que toda Adalaber debería conocer ante
 - TDD (Test drive developement)(Bea)
 - Unity testing
 - User-Agent
-- **Versión beta:** Es una versión de software que ha pasado la etapa de prueba interna y ha sido lanzada a los usuarios para pruebas públicas. Suele ser un prototipo del producto final, inestable y que se lanza para que los usuarios puedan testar sus funcionalidades, detectar fallos y sugerir mejoras de cara a la versión final.
+- **Versión beta:** Es una versión de software que ha pasado la etapa de prueba interna y ha sido lanzada a los usuarios para pruebas públicas. Suele ser un prototipo del producto final, inestable y que se lanza para que los usuarios puedan testar sus funcionalidades, detectar fallos y sugerir mejoras de cara a la versión final. 
 - Vue
 - Web components
 - Webpack
