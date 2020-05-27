@@ -2,8 +2,8 @@
 Aquí mostramos un glosario de términos que toda Adalaber debería conocer antes de empezar a hacer entrevistas de trabajo. No todos son términos propiamente de front, por eso con tener una idea general de lo que significan sería suficiente. Os animamos a buscar estos términos y entender lo que son:
 
 - a11y
-- Axios
-- Babel
+- Axios (Grisel)
+- Babel (Grisel)
 - Base de datos relacional, SQL (Bea)
 - Base de datos no relacional, a veces llamado NoSQL, MongoDB (Bea)
 - BDD (Bea)
