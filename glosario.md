@@ -9,12 +9,13 @@ Aquí mostramos un glosario de términos que toda Adalaber debería conocer ante
 - BDD (Bea)
 - C Delivery
 - C Deployment
+- Callaback (Patricida)
 - Changelogs
 - Code scopes / blocks
 - Continuous Integration
 - Desplegar / deployar (Natalia)
 - DevOps
-- Docker
+- **Docker:** Es un programa de código abierto que permite que una aplicación Linux y sus dependencias se empaqueten como un contenedor usando estos como máquinas virtuales permitiendo que las aplicaciones se ejecuten con total seguridad pero, a diferencia de las máquinas virtuales, son extremadamente más livianos (significativamente más pequeños) y modulares(capacidad de tomar una parte de una aplicación, para actualizarla o repararla, sin necesidad de tomar la aplicación completa) otorgándole mayor independencia.(Patricida)
 - End to end test (Eva)
 - Firebase (Bea)
 - FP (Programación Funcional)
