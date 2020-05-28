@@ -13,7 +13,10 @@ Aquí mostramos un glosario de términos que toda Adalaber debería conocer ante
 - Changelogs
 - Code scopes / blocks
 - Continuous Integration
-- Desplegar / deployar (Natalia)
+- **Desplegar / deployar:** Subir una versión de software o paquete de datos normalmente a producción. Una practica recomendada es no desplegar los viernes.
+- **Deuda técnica:** Una de las definiciones de deuda técnica es cuando se realiza una solución rápida y a corto plazo a un problema
+con el fin de entregarlo en la fecha prevista  y te comprometes a refactorizarlo en un futuro. Cuando este problema no se refactoriza
+porque surjen otros o por falta de tiempo y se queda como está se produce deuda técnica. Post sobre más información de deuda técnica : https://www.federico-toledo.com/deuda-tecnica/
 - DevOps
 - **Docker:** Es un programa de código abierto que permite que una aplicación Linux y sus dependencias se empaqueten como un contenedor usando estos como máquinas virtuales permitiendo que las aplicaciones se ejecuten con total seguridad pero, a diferencia de las máquinas virtuales, son extremadamente más livianos (significativamente más pequeños) y modulares(capacidad de tomar una parte de una aplicación, para actualizarla o repararla, sin necesidad de tomar la aplicación completa) otorgándole mayor independencia.(Patricida)
 - End to end test (Eva)
@@ -50,6 +53,8 @@ https://dev.to/bouhm/react-redux-flow-terminologies-and-example-104b
 https://es.redux.js.org/
 - Redux Saga
 - Server side rendering
+- **Snippets:** Fragmentos de código que suelen solucionar un problema que aparece de manera ocasional. Esos fragmentos se suelen anotar 
+para usarlo en futuras ocasiones.
 - Software versioning
 - SPA (Simple Page Application)
 - Stagings
