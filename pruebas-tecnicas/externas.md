@@ -9,4 +9,4 @@
 
 - Carto -> https://carto.com/careers/
 
-- Instrucciones de prueba técnica real de la empresa Codify. Plazo para realizar la prueba 1 semana [PruebaNumRomanos.pdf]
+- Instrucciones de prueba técnica real de la empresa Codify. Plazo para realizar la prueba 1 semana [Prueba real números romanos](https://github.com/Adalab/recursos-de-las-alumnas/blob/master/pruebas-tecnicas/PruebaNumRomanos.pdf)
