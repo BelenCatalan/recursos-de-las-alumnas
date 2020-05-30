@@ -57,8 +57,8 @@ https://es.redux.js.org/
 para usarlo en futuras ocasiones.
 - Software versioning
 - SPA (Simple Page Application)
-- Stagings 
-- Storybook 
+- Stagings (Belen)
+- Storybook (Belen)
 - Styled components / emotion
 - TDD (Test drive developement)(Bea)
 - Unity testing
