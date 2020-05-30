@@ -57,7 +57,7 @@ https://es.redux.js.org/
 para usarlo en futuras ocasiones.
 - Software versioning
 - SPA (Simple Page Application)
-- Stagings (Belen)
+- **Stagings:** (puesta en escena) El entorno de staging es una copia del entorno de producción ( el sitio web funcionando), en un servidor privado. Este entorno es una vista previa del trabajo donde se puede revisar, realizar test y cambios de una manera segura, sin que afecte a la web en uso.  Una vez aprobados los cambios se trasladan al entorno de producción. Migraciones de bases de datos, y actualizaciones de versiones se hacen en el staging. Flujo de trabajo “development-staging-production”.
 - Storybook (Belen)
 - Styled components / emotion
 - TDD (Test drive developement)(Bea)
