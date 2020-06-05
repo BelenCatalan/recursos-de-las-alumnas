@@ -1,6 +1,7 @@
 ## Preguntas reales de entrevistas
 
 - ¿Qué diferencia entre librería y framework?<br />
+- Diferencia entre null y undefined <br />
 
 HTML & HTML5 Questions<br />
 
