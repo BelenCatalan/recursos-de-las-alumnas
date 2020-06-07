@@ -19,17 +19,17 @@ con el fin de entregarlo en la fecha prevista  y te comprometes a refactorizarlo
 porque surjen otros o por falta de tiempo y se queda como está se produce deuda técnica. Post sobre más información de deuda técnica : https://www.federico-toledo.com/deuda-tecnica/
 - DevOps
 - **Docker:** Es un programa de código abierto que permite que una aplicación Linux y sus dependencias se empaqueten como un contenedor usando estos como máquinas virtuales permitiendo que las aplicaciones se ejecuten con total seguridad pero, a diferencia de las máquinas virtuales, son extremadamente más livianos (significativamente más pequeños) y modulares(capacidad de tomar una parte de una aplicación, para actualizarla o repararla, sin necesidad de tomar la aplicación completa) otorgándole mayor independencia.(Patricida)
-- End to end test (Eva)
+- **End to end test:** Tipo de testeo del proyecto que consiste en probar todo el flujo del software desde el punto de vista del usuario final. Se realiza desde la interfaz de usuario y no desde el código y está enfocado en detectar posibles problemas que pudieran encontrar nuestros usuarios en su interacción con el flujo general del programa.
 - Firebase (Bea)
 - FP (Programación Funcional)
 - Gitflow / Hotfix / Bugfix
 - Graphic libraries: Recharts, Nivo, Victory
 - HOC (High Order Components)
 - Imágenes / contenedores
-- Integration testing
+- **Integration testing:** En castellano *pruebas de integración*, permiten comprobar el comportamiento y posibles fallos en la interacción entre componentes en sí, y demás elementos del software.
 - Jenkins / Pipelines
 - Minify / Uglify / Terser
-- Node / Deno
+- Node / Deno (Eva)
 - OOP (Programación Orientada a Objetos)
 - Patrón de diseño en programación
 - Patrón de diseño MVC
