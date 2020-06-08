@@ -64,7 +64,7 @@ para usarlo en futuras ocasiones.
 - Unity testing
 - User-Agent
 - **Versión beta:** Es una versión de software que ha pasado la etapa de prueba interna y ha sido lanzada a los usuarios para pruebas públicas. Suele ser un prototipo del producto final, inestable y que se lanza para que los usuarios puedan testar sus funcionalidades, detectar fallos y sugerir mejoras de cara a la versión final. 
-- Vue
+- **Vue**: Se pronuncia "view" y también se suele llamar Vue.js. Es open source, como Angular y React. Imita a React en cuanto a al virtual DOM, cómo hace el render declarativo (automático, o ‘reactividad’) y la estructura a través de componentes que pueden ser reutilizables. De Angular coge cómo manipula el DOM a través de eventos. Es sencillo de utilizar, sobre todo si conoces React. Es escalable e incorporable a proyectos existentes que ya usen React, Angular o Jquery.
 - Web components
 - Webpack
 
