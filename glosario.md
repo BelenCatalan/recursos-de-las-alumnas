@@ -17,7 +17,7 @@ Aquí mostramos un glosario de términos que toda Adalaber debería conocer ante
 - **Deuda técnica:** Una de las definiciones de deuda técnica es cuando se realiza una solución rápida y a corto plazo a un problema
 con el fin de entregarlo en la fecha prevista  y te comprometes a refactorizarlo en un futuro. Cuando este problema no se refactoriza
 porque surjen otros o por falta de tiempo y se queda como está se produce deuda técnica. Post sobre más información de deuda técnica : https://www.federico-toledo.com/deuda-tecnica/
-- DevOps
+- **DevOps:** DevOps es una metodología de desarrollo software basada en la integración entre desarrolladores y administradores de sistemas, que permite que los desarrolladores puedan enfocarse sólo en desarrollar y puedan desplegar su código en segundos. (para ampliar más ver [este artículo](https://www.paradigmadigital.com/techbiz/que-es-devops-y-sobre-todo-que-no-es-devops/).
 - **Docker:** Es un programa de código abierto que permite que una aplicación Linux y sus dependencias se empaqueten como un contenedor usando estos como máquinas virtuales permitiendo que las aplicaciones se ejecuten con total seguridad pero, a diferencia de las máquinas virtuales, son extremadamente más livianos (significativamente más pequeños) y modulares(capacidad de tomar una parte de una aplicación, para actualizarla o repararla, sin necesidad de tomar la aplicación completa) otorgándole mayor independencia.(Patricida)
 - **End to end test:** Tipo de testeo del proyecto que consiste en probar todo el flujo del software desde el punto de vista del usuario final. Se realiza desde la interfaz de usuario y no desde el código y está enfocado en detectar posibles problemas que pudieran encontrar nuestros usuarios en su interacción con el flujo general del programa.
 - Firebase (Bea)
@@ -64,7 +64,7 @@ para usarlo en futuras ocasiones.
 - Unity testing
 - User-Agent
 - **Versión beta:** Es una versión de software que ha pasado la etapa de prueba interna y ha sido lanzada a los usuarios para pruebas públicas. Suele ser un prototipo del producto final, inestable y que se lanza para que los usuarios puedan testar sus funcionalidades, detectar fallos y sugerir mejoras de cara a la versión final. 
-- **Vue**: Se pronuncia "view" y también se suele llamar Vue.js. Es open source, como Angular y React. Imita a React en cuanto a al virtual DOM, cómo hace el render declarativo (automático, o ‘reactividad’) y la estructura a través de componentes que pueden ser reutilizables. De Angular coge cómo manipula el DOM a través de eventos. Es sencillo de utilizar, sobre todo si conoces React. Es escalable e incorporable a proyectos existentes que ya usen React, Angular o Jquery.
+- **Vue:** Se pronuncia "view" y también se suele llamar Vue.js. Es open source, como Angular y React. Imita a React en cuanto a al virtual DOM, cómo hace el render declarativo (automático, o ‘reactividad’) y la estructura a través de componentes que pueden ser reutilizables. De Angular coge cómo manipula el DOM a través de eventos. Es sencillo de utilizar, sobre todo si conoces React. Es escalable e incorporable a proyectos existentes que ya usen React, Angular o Jquery.
 - Web components
 - Webpack
 
