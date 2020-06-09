@@ -4,8 +4,19 @@ Aquí mostramos un glosario de términos que toda Adalaber debería conocer ante
 - a11y
 - Axios (Grisel)
 - Babel (Grisel)
-- Base de datos relacional, SQL (Bea)
-- Base de datos no relacional, a veces llamado NoSQL, MongoDB (Bea)
+- **Base de datos relacional, SQL:** Es un tipo de base de datos que almacena y proporciona acceso a puntos de datos relacionados entre sí siguiendo el modelo relacional. Se basan en la organización de la información en trozos pequeños, que se relacionan entre ellos mediante la relación de identificadores o índices. Habitualmente los datos son almacenados en tablas existiendo la posibilidad de enlazar los datos de una tabla con los de otra.
+La interfaz estándar de programa de usuario y aplicación a una base de datos relacional, es el Lenguaje de Consultas Estructuradas (SQL:Structured Query Language). Los comandos SQL se utilizan tanto para consultas interactivas como para obtener información de una base de datos y la recopilación de datos para informes.
+La base de datos relacional más usada y conocida es MySQL junto con Oracle, seguida por SQL Server y PostgreSQL, entre otras.
+¿Cuándo utilizar SQL?
+-Cuando el volumen de datos no crece o lo hace poco a poco.
+-Cuando las necesidades de proceso se pueden asumir en un sólo servidor.
+-Cuando no tenemos picos de uso del sistema por parte de los usuarios más allá de los previstos. (Bea)
+- **Base de datos no relacional, a veces llamado NoSQL (Not Only SQL),MongoDB:** Este tipo de base de datos a diferencia de las relacionales, no tienen un identificador que sirva de relación entre un conjunto de datos y otros. No usan SQL como lenguaje principal de consultas, se denominan a veces "no solo SQL" para subrayar el hecho de que pueden soportar lenguajes de consulta SQL. Los datos están almacenados normalmente en documentos (no tablas) sino colecciones de documentos que son objetos json= bson (binarijason). Son muy útiles cuando no se tiene un esquema exacto de lo que se va a almacenar.
+MongoDB es la base de datos no relacional que  más popularidad ha ganado en los últimos años seguida por Redis,Elasticsearch y Cassandra.
+¿Cuándo utilizar NoSQL?
+-Cuando el volumen de mis datos crece muy rápidamente en momentos puntuales.
+-Cuando las necesidades de proceso no se pueden preveer.
+-Cuando tenemos picos de uso del sistema por parte de los usuarios en múltiples ocasiones. (Bea)
 - BDD (Bea)
 - C Delivery
 - C Deployment
