@@ -41,6 +41,7 @@ Estamos creando un [glosario](./glosario.md) de términos que te viene muy bien 
 - 30 species in pieces http://species-in-pieces.com
 - Codepen de animación CSS https://codepen.io/miocene/pen/mjLPVp
 - Codepen con animación gradiente para background https://codepen.io/P1N2O/pen/pyBNzX
+- Página con animaciones CSS https://animista.net
 
 ## Recursos de JS:
 
