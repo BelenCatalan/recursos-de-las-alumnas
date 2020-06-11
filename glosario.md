@@ -69,7 +69,8 @@ para usarlo en futuras ocasiones.
 - Software versioning
 - SPA (Simple Page Application)
 - **Stagings:** (puesta en escena) El entorno de staging es una copia del entorno de producción ( el sitio web funcionando), en un servidor privado. Este entorno es una vista previa del trabajo donde se puede revisar, realizar test y cambios de una manera segura, sin que afecte a la web en uso.  Una vez aprobados los cambios se trasladan al entorno de producción. Migraciones de bases de datos, y actualizaciones de versiones se hacen en el staging. Flujo de trabajo “development-staging-production”.
-- Storybook (Belen)
+- **Storybook:** Es un entorno de desarrollo de interfaz de usuario(desarrollo de componentes).Te permite obtener una librería de componentes, ver los diferentes estados de cada uno de ellos y, desarrollar y testar componentes de manera interactiva
+Se ejecuta fuera de la aplicación principal para que los usuarios puedan desarrollar componentes de forma aislada sin preocuparse por las dependencias y requisitos específicos de la aplicación, una especie de espacio seguro donde interactuar con ellos. Su puede utilizar para HTML, React, React Native, Vue, Angular y otros frameworks.
 - Styled components / emotion
 - TDD (Test drive developement)(Bea)
 - Unity testing
